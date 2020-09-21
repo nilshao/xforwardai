@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/q2.dir/src/q2/answer.cpp.o  -o q2 

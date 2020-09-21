@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/q3.dir/src/q3/answer.cpp.o  -o q3 

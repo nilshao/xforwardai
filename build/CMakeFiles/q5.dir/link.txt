@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/q5.dir/src/q5/answer.cpp.o  -o q5 
